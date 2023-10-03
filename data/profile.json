@@ -55,6 +55,11 @@
     ],
     "portfolio": [
         {
+            "name": "Curriculo-web-page",
+            "url": "https://github.com/AndreiDaSilva/Curriculo-web-page",
+            "github": true
+        },
+        {
             "name": "SnakerGame",
             "url": "https://github.com/AndreiDaSilva/SnakerGame",
             "github": true
@@ -74,22 +79,22 @@
         {
             "name": "Comprador / Unibox Atacarejo",
             "period": "mar 2023 - até o momento",
-            "description": "Compra e negociações de mercadoria na linha de lácteos, organização de ações e acompanhamentos das vendas e métricas."
+            "description": "Sou responsável por aquisições estratégicas e gestão de estoque de produtos lácteos. Negocio com fornecedores, otimizo níveis de estoque e analiso dados para impulsionar vendas e lucros. Trabalho na criação de estratégias de preços competitivas e colaboro com equipes de vendas e marketing. Tenho aprimorado minhas habilidades analíticas, de negociação e conhecimento da indústria de alimentos. Minha experiência inclui forte organização e acompanhamento para eficiência operacional."
         },
         {
             "name": "Sup. Administrativo / Bavihaus casa da cerveja",
             "period": "dez 2019 - fev 2023",
-            "description": "Contratação; treinamento & desenvolvimento de equipe; planejamento organizacional; gestão da equipe; fechamento financeiro diário; gestão de vendas; lançamento fiscal; compras."
+            "description": "Fui responsável pela contratação, treinamento e desenvolvimento da equipe, planejamento organizacional, gestão de vendas, lançamento fiscal e compras. Liderei a equipe, assegurando o fechamento financeiro diário e contribuindo para o crescimento da empresa. Desenvolvi habilidades em liderança, gestão de equipe e operações, comprometendo-me e contribuindo para o sucesso da organização."
         },
         {
             "name": "Auxiliar de Vendas / Acesso Educação",
             "period": "mai 2018 - abr 2019",
-            "description": "Gestão de vendas; pós-venda; coordenação e integralização dos novos alunos; captação de leads."
+            "description": "Minhas principais responsabilidades incluíram gestão de vendas, pós-venda, coordenação e integração de novos alunos e captação de leads. Contribuí ativamente para o crescimento da empresa, garantindo um serviço de alta qualidade aos alunos e atraindo novos prospects. Desenvolvi habilidades valiosas em vendas, atendimento ao cliente e gestão de relacionamentos."
         },
         {
             "name": "Caixa / Bavihaus casa da cerveja",
             "period": "set 2015 - mai 2018",
-            "description": "Registro de produtos no caixa, organização, abastecimento e limpeza de produtos em loja"
+            "description": "Fui responsável pelo registro de produtos no caixa, mantendo a organização, abastecimento e limpeza da loja. Contribuí para uma experiência positiva do cliente, assegurando transações precisas e um ambiente de loja agradável e bem abastecido. Desenvolvi habilidades de atendimento ao cliente, gerenciamento de caixa e trabalho em equipe."
         }
     ]
 }

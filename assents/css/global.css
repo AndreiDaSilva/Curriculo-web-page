@@ -1,7 +1,4 @@
-:root{
-    --backgroud-header: #09253B;
-    --backgroud-tags: #03131F;
-}
+@import url(root.css);
 
 *{
     padding: 0;

@@ -55,6 +55,11 @@
     ],
     "portfolio": [
         {
+            "name": "Curriculo-web-page",
+            "url": "https://github.com/AndreiDaSilva/Curriculo-web-page",
+            "github": true
+        },
+        {
             "name": "SnakerGame",
             "url": "https://github.com/AndreiDaSilva/SnakerGame",
             "github": true
@@ -67,11 +72,6 @@
         {
             "name": "Copia-Pagina-Instagram",
             "url": "https://github.com/AndreiDaSilva/Copia-Pagina-Instagram",
-            "github": true
-        },
-        {
-            "name": "Curriculo-web-page",
-            "url": "https://github.com/AndreiDaSilva/Curriculo-web-page",
             "github": true
         }
     ],

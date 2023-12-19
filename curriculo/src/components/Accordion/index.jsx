@@ -1,13 +1,14 @@
 import {
+  Accordion,
   AccordionButton,
   AccordionItem,
+  AccordionPanel,
   Box,
   MinusIcon,
   AddIcon,
-  AccordionPanel,
 } from "@chakra-ui/react";
 
-const Accordion = ({ title, describe }) => {
+const AccordionTemplat = ({ title, describe }) => {
   return (
     <Accordion>
       <AccordionItem>
@@ -33,4 +34,4 @@ const Accordion = ({ title, describe }) => {
   );
 };
 
-export default Accordion;
+export default AccordionTemplat;

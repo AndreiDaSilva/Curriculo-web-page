@@ -1,11 +1,11 @@
 import { Button, Stack } from "@chakra-ui/react";
 
-const Button = ({ title }) => {
-  return (
-    <Stack spacing={4} direction='row' align='center'>
-      <Button colorScheme={"blue"}>{title}</Button>
-    </Stack>
-  );
-};
+const ButtonTest = ({ title }) => {
+    return (
+     <Button>
+        {title}
+     </Button>
+    );
+}
 
-export default Button;
+export default ButtonTest;

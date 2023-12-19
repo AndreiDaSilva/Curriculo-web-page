@@ -1,4 +1,4 @@
-import { Button, Stack } from "@chakra-ui/react";
+import { Button } from "@chakra-ui/react";
 
 const ButtonTest = ({ title }) => {
     return (

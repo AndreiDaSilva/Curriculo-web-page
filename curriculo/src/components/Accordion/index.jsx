@@ -4,31 +4,24 @@ import {
   AccordionItem,
   AccordionPanel,
   Box,
-  MinusIcon,
-  AddIcon,
+  AccordionIcon,
 } from "@chakra-ui/react";
 
-const AccordionTemplat = ({ title, describe }) => {
+const AccordionTemplat = ({ title, describ }) => {
   return (
-    <Accordion>
+    <Accordion allowMultiple>
       <AccordionItem>
-        {({ isExpanded }) => (
-          <>
-            <h2>
-              <AccordionButton>
-                <Box as="span" flex="1" textAlign="left">
-                  {title}
-                </Box>
-                {isExpanded ? (
-                  <MinusIcon fontSize="12px" />
-                ) : (
-                  <AddIcon fontSize="12px" />
-                )}
-              </AccordionButton>
-            </h2>
-            <AccordionPanel pb={4}>{describe}</AccordionPanel>
-          </>
-        )}
+        <h2>
+          <AccordionButton _expanded={{ bg: "tomato", color: "white" }}>
+            <Box as="span" flex="1" textAlign="left">
+              {title}
+            </Box>
+            <AccordionIcon />
+          </AccordionButton>
+        </h2>
+        <AccordionPanel>
+          {describ}
+        </AccordionPanel>
       </AccordionItem>
     </Accordion>
   );

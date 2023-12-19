@@ -1,12 +1,13 @@
-import { Button } from "@mui/material";
+import { Flex } from "@chakra-ui/react";
+import Accordion from "./components/Accordion"
+
 
 
 function App() {
   return (
-    <Button>
-      Bem vindo
-    </Button>
-    
+    <Flex>
+      <Accordion />
+    </Flex>
   );
 }
 
